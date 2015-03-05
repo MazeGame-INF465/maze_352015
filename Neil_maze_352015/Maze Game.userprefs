@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\FPS Constructor V1\ScriptsDB\Editable\WeaponDisplay.js">
+    <Files>
+      <File FileName="Assets\Plugins\FPS Constructor V1\ScriptsDB\WeaponScripts\GunScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\FPS Constructor V1\ScriptsDB\WeaponScripts\PlayerWeapons.js" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\FPS Constructor V1\ScriptsDB\Editable\WeaponDisplay.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
